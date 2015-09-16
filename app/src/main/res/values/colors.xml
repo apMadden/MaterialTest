@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name ="colorPrimaryDark">#B57C00</color>
+    <color name ="colorPrimary">#F1A500</color>
+    <color name ="colorPrimaryLight">#F6C355</color>
+    <color name ="colorAccent">#F1A500</color>
+
+    <color name ="background_light">#ADAEAF</color>
+    <color name ="keyme_gray">#848687</color>
+
+    <color name="keyme_50">#FEF6E6</color>
+    <color name="keyme_100">#FBE4B3</color>
+    <color name="keyme_200">#F8D280</color>
+    <color name="keyme_300">#F6C355</color>
+    <color name="keyme_400">#F3B42A</color>
+    <color name="keyme_500">#F1A500</color>
+    <color name="keyme_600">#D39000</color>
+    <color name="keyme_700">#B57C00</color>
+    <color name="keyme_800">#976700</color>
+    <color name="keyme_900">#795300</color>
+    <color name="keyme_A100">#FBE4B3</color>
+    <color name="keyme_A200">#F8D280</color>
+    <color name="keyme_A400">#F3B42A</color>
+    <color name="keyme_A700">#B57C00</color>
+    <color name="keyme_red">#FF0707</color>
+
+    <color name="bg_bottom">#1b1f21</color>
+    <color name="bg_middle">#202526</color>
+    <color name="menu_tapped">#282f31</color>
+    <color name="bg_top">#252a2c</color>
+    <color name="bg_gray_bottom">#41484a</color>
+    <color name="bg_gray_top">#4d5252</color>
+
+    <color name="keyme_gray_border">#313232</color>
+    <color name="menu_tapped_semi_transparent">#4D282f31</color>
+    <!-- #4D = 30% -->
+    <color name="border_color">#FFFFFF</color>
+    <color name="scan_gray_top">#797672</color>
+    <color name="scan_gray_middle">#605d5c</color>
+    <color name="scan_gray_bottom">#515054</color>
+    <color name="scan_dark_bg">#252a2c</color>
+
+    <!-- 11/18/04 Designs -->
+    <color name="keyme_black">#1B1C1D</color>
+    <color name="keymegray">#848687</color>
+    <color name="keyme_button_dark_gray">#111516</color>
+    <color name="keyme_button_light_gray">#23292b</color>
+    <color name="keyme_light_gray">#c4c8d2</color>
+
+
+   <color name="navigationBarColor">#000000</color>
+
+   <color name="theme_light">#FFCC80</color>
+   <color name="theme_default_primary">#FF9800</color>
+   <color name="theme_window_background">#F57C00</color>
+   <color name="accent">#EEFF41</color>
+   <color name="gray_row_color">#ff515252</color>
+
+
+    <!-- KeyCard background colors -->
+    <color name="color_card_one">#00D1B1</color>
+    <color name="color_card_two">#3783A7</color>
+    <color name="color_card_three">#F08080</color>
+    <color name="color_card_four">#80F0F0</color>
+
+   <!-- Dialer theme -->
+    <color name="dialer_call">#00C853</color>
+    <color name="theme_dialer_high">#0277BD</color>
+    <color name="theme_dialer_primary">#0288D1</color>
+    <color name="theme_dialer_accent">#FFF</color>
+
+    <!-- Reveal transition colors -->
+    <color name="color_set_1_primary">#4fc3f7</color>
+    <color name="color_set_1_accent">#009688</color>
+
+    <color name="color_set_2_primary">#42bd41</color>
+    <color name="color_set_2_accent">#673AB7</color>
+
+    <color name="color_set_3_primary">#ffb74d</color>
+    <color name="color_set_3_accent">#E91E63</color>
+
+    <color name="color_set_4_primary">#ff8a65</color>
+    <color name="color_set_4_accent">#d500f9</color>
+
+
+
+</resources>

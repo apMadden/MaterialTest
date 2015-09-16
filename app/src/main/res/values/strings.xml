@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="title_activity_color">ColorActivity</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_store">Store</string>
+    <string name="title_activity_map">MapActivity</string>
+
+    <string name="hello_world">Hello World!</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_closed">Close</string>
+    <string-array name="drawer_list">
+        <item>Your Keys</item>
+        <item>Find a Kiosk or Locksmith</item>
+        <item>Store</item>
+        <item>Your Cart</item>
+        <item>Your Account</item>
+        <item>Settings</item>
+        <item>Contact Us</item>
+    </string-array>
+
+
+    <!-- General -->
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="secure">Secure</string>
+    <string name="done">Done</string>
+    <string name="icon">Icon</string>
+    <string name="just_continue">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="key">Key</string>
+    <string name="help">Help</string>
+    <string name="delete">Delete</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="cost">Cost</string>
+    <string name="confirm">Confirm</string>
+    <string name="ok">OK</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="search">Search</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="left">Left</string>
+    <string name="middle">Middle</string>
+    <string name="right">Right</string>
+    <string name="accept">Accept</string>
+    <string name="next">Next</string>
+    <string name="retry">Retry</string>
+    <string name="logo">Logo</string>
+    <string name="rename">Rename</string>
+    <string name="add">add</string>
+
+    <string name="keyme_notification_title">KeyMe Update!</string>
+
+    <string name="no_connection_text">No connection detected! Check your connection! press retry, blah blah blah.</string>
+    <string name="no_connection_title">Not Connected.</string>
+
+    <!-- Forms -->
+    <string name="login_email_hint">Login Email</string>
+    <string name="login_confirm_email_hint">Confirm Email Address</string>
+    <string name="login_password_hint">Password</string>
+    <string name="credit_card_hint">Credit Card Info</string>
+    <string name="validation_field_is_blank">Field cannot be blank</string>
+    <string name="email_is_invalid">Email is invalid</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="password_is_invalid">Password is invalid</string>
+    <string name="password_is_blank">Password cannot be blank</string>
+    <string name="password_invalid_length">Password must be 8 chars</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+
+    <!-- Validation -->
+    <string name="full_name_is_blank">Full Name is required!</string>
+    <string name="address_is_blank">Address is required!</string>
+    <string name="city_is_blank">City is required!</string>
+    <string name="zip_is_blank">Zip Code is required!</string>
+    <string name="zip_is_invalid">Zip Code is invalid!</string>
+    <string name="state_is_blank">State is required!</string>
+    <string name="month_is_blank">Month is required!</string>
+    <string name="year_is_blank">Year is required!</string>
+    <string name="cc_is_invalid">Credit Card is invalid</string>
+    <string name="invalid_card_number">invalid card number</string>
+    <string name="invalid_exp_month">invalid exiration month</string>
+    <string name="invalid_card_year">invalid exiration year</string>
+    <string name="invalid_cvv">invalid cvv</string>
+    <string name="current_password_is_required">Current password is required!</string>
+    <string name="new_password_is_required">New password is required!</string>
+
+
+    <!-- Staging -->
+    <string name="get_started_text">Scan your key, save it, share it, access it 24/7, make copies...</string>
+    <string name="i_already_use_keyme">I already use KeyMe</string>
+
+
+    <!-- Menu -->
+    <string name="menu_my_keys">My Keys</string>
+    <string name="menu_shopping_cart">Shopping Cart</string>
+    <string name="menu_scan_keys">Scan Key</string>
+    <string name="menu_locked_out">Locked Out</string>
+    <string name="menu_account">My Account</string>
+    <string name="menu_kiosk">Kiosk</string>
+    <string name="menu_accessories">Accessories</string>
+    <string name="menu_find_locksmith">Find Locksmith</string>
+    <string name="menu_search">Search Keys</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_opened">Menu Opened</string>
+    <string name="menu_closed">Menu Closed</string>
+
+    <string name="contact_us_text">To contact the offices of keyme visit us at http://www.keyme.com blah blah blah</string>
+
+    <!-- Login -->
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="or_with_facebook">or with Facebook</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password_text">Enter your Email below and we\'ll send you a password reset link.</string>
+    <string name="account_name_hint">Account Name</string>
+    <string name="im_a_new_user">I\'m a New User</string>
+    <string name="im_a_returning_user">I\'m a Returning User</string>
+
+    <string name="signup_email_hint">Enter Email Address</string>
+    <string name="signup_password_hint">Create Password</string>
+    <string name="by_email">By Email</string>
+    <string name="with_facebook">with Facebook</string>
+    <string name="with_google">with Google+</string>
+    <string name="default_login_select_text">Login</string>
+    <string name="share_login_select_text">Create an account or log in to claim your key!</string>
+    <string name="scan_login_select_text">Final Step.\n Save key by logging in!</string>
+    <string name="login_failed">Login failed. Please retry...</string>
+    <string name="signup_terms_url">https://key.me/terms</string>
+    <string name="signup_privacy_url">https://key.me/privacy</string>
+    <string name="signup_help_text">"By tapping Lets Get Started, you are indicating that you have read the <b><a href="https://key.me/privacy">Privacy Policy</a></b> and agree to the <b><a href="https://key.me/terms">Terms of Service</a></b></string>
+    <string name="forgot_password_link_text">I Forgot My Password :(</string>
+
+
+    <!-- Account -->
+    <string name="log_out">Log Out</string>
+    <string name="change_passowrd">Change Password</string>
+    <string name="my_history">My History</string>
+    <string name="my_account">My Account</string>
+    <string name="notifications">Notifications:</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_email_text">Once you\'ve changed your email we\'ll send a verification to your new address</string>
+    <string name="account_email_hint">Email Address</string>
+    <string name="account_confirm_email_hint">Confirm Email Address</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_password_text">For your safety the password needs to be at least 8 characters and include at least one letter and one number.</string>
+    <string name="account_password_hint">Current Password</string>
+    <string name="account_new_password_hint">New Password</string>
+    <string name="account_confirm_password_hint">Confirm New Password</string>
+    <string name="forgotten_your_password">Forgotten Your Password?</string>
+    <string name="edit_payment_info">Edit Payment Info</string>
+    <string name="scan_credit_card">Scan Credit Card</string>
+    <string name="enter_credit_card_manually">Enter Credit Card Manually</string>
+    <string name="remove_current_credit_card">Remove Current Credit Card</string>
+    <string name="new_credit_card">New Credit Card</string>
+    <string name="credit_card_number_hint">Credit Card Number</string>
+    <string name="credit_card_expiration_hint">Expiration Date</string>
+    <string name="credit_card_cvv_hint">CVV code</string>
+    <string name="save_credit_card">Save Credit Card</string>
+    <string name="forgot_password_sent_text">Reset link sent!\nCheck your email.</string>
+    <string name="new_password">New Password</string>
+    <string name="password_changed">Password Changed</string>
+    <string name="password_changed_text">Your password has been successfully changed!</string>
+    <string name="email_changed">Email Changed</string>
+    <string name="email_changed_text">A verification has been sent to %1s, check your email to confirm the changes. You must confirm before blah blah blah.</string>
+    <string name="confirmed_email_changed">Email Changed</string>
+    <string name="confirmed_email_changed_text">Your email has successfully been changed to %1s. before blah blah blah.</string>
+    <string name="add_a_credit_card">Add a credit card</string>
+    <string name="no_history">no history</string>
+    <string name="account_cc_empty_text">Add a credit card to your account for quick and easy ordering blah blah blah.</string>
+    <string name="account_cc_expiration">Expiration Date: %1$s / %2$s</string>
+    <string name="history_list_load_failure">history list has failed to load...</string>
+    <string name="unlink_account">Unlink Account</string>
+
+    <!-- Scan -->
+    <string name="select_key_type">Select Key Type</string>
+    <string name="home_office">Home/Office</string>
+    <string name="mailbox">Mailbox</string>
+    <string name="cabinet_padlock">Cabinet/Padlock</string>
+    <string name="car">Car</string>
+    <string name="mul_t_lock">Mul-T-Lock</string>
+    <string name="other">Other</string>
+    <string name="scan_button">Scan Button</string>
+    <string name="scan_button_text">Off keychain &amp; on white paper</string>
+    <string name="whole_key_visible">Whole Key Visible?</string>
+    <string name="off_the_keychain_yo">Off the Keychain?</string>
+    <string name="on_white_paper">On White Paper?</string>
+    <string name="image_sharp">Image Sharp</string>
+    <string name="key_is_off_chain">Key Is Off Keychain</string>
+    <string name="key_fills_the_frame">Key Fills The Frame</string>
+    <string name="key_is_on_white_paper">Key Is On White Paper</string>
+    <string name="the_image_is_sharp">The Image Is Sharp</string>
+    <string name="retake">Retake</string>
+    <string name="use">Use</string>
+    <string name="use_and_complete">Use &amp; Complete</string>
+    <string name="scanning_key">Scanning Key</string>
+    <string name="scan_name_hint">Write your own\.\.\.</string>
+    <string name="key_name">Key Name</string>
+    <string name="flip_key_over">Flip Key Over!</string>
+    <string name="scan_more_keys">Scan more keys</string>
+    <string name="let_me_know_by_notification">Let me know by Notification</string>
+    <string name="processing_text">We\'re scanning your key right now. It usually takes an average of 5 mins, but could take longer if we need a specialist to check it. \nMake sure you don\'t get caught out and scan the rest of your keys while you wait. </string>
+    <string name="the_perfect_picture">The Perfect Picture</string>
+    <string name="got_it">Got It!</string>
+    <string name="adjust_camera_angle">Adjust Camera Angle So It\'s Flat</string>
+    <string name="ideal">Ideal</string>
+    <string name="yours">Yours</string>
+    <string name="scan_confirm_side_by_side_text">Compare your picture to the ideal scan so blah blah blah</string>
+    <string name="need_camera_text">You need a back facing camera to scan a key! You can still blah blah blah</string>
+    <string name="need_camera_title">No Camera Found</string>
+    <string name="camera_must_be_level">Camera must be level to take a picture.</string>
+    <string name="scan_lose_progress_text">Are you sure you want to exit this scan blah blah blah. You will lose progress. Continue?</string>
+    <string name="scan_lose_progress_title">Exit?</string>
+    <string name="scan_lose_capture_text">Your scan will be lost if you do not register... blah blah blah.  Continue?</string>
+    <string name="scan_lose_capture_title">Exit?</string>
+    <string name="take_me_to_my_keychain">Take me to my keychain</string>
+    <string name="notify_me_when_my_scan_is_ready">Notify me when my scan is ready</string>
+    <string name="key_scan_title">YOUR KEY HAS BEEN SCANNED!</string>
+    <string name="key_scan_text">Select a Sign-In method below \n to access your key</string>
+    <string name="scan_restarted">Scan Restarted</string>
+
+    <!-- Home -->
+    <string name="order_keys">Order Keys</string>
+    <string name="locked_out">Locked Out</string>
+    <string name="scan_another_key">Scan Another Key</string>
+    <string name="scan_next_key">Scan Next Key</string>
+    <string name="rescan">Rescan</string>
+    <string name="answer">Answer</string>
+    <string name="remove_key">Remove Key</string>
+    <string name="remove_key_text">Are you sure you would like to remove this key?</string>
+    <string name="order_key">Order Key</string>
+    <string name="status_pending_text">While your key is being analyzed, scan more keys.</string>
+    <string name="status_request_rescan_text">Please take two more photos.</string>
+    <string name="status_request_question_text">Please answer a quick question from our supercomputer.</string>
+    <string name="status_failed_text">Analysis complete but this key type is not yet supported.</string>
+    <string name="status_success_text">Your key is ready to be ordered.</string>
+    <string name="order_by_mail">Order By Mail</string>
+    <string name="digital_blueprint">Digital BluePrint</string>
+    <string name="blueprint_text">Tell your Locksmith that you would like to Code Cut your key and show him this screen.</string>
+    <string name="blueprint_bitting_code_text">Bitting Code: %1s</string>
+    <string name="blueprint_key_type_text">Key Type: %1s</string>
+    <string name="share_key">Share Key</string>
+    <string name="find_a_kiosk">Find a Kiosk</string>
+    <string name="empty_keychain_text">Your keychain is very lonely\.\.\.</string>
+    <string name="empty_keychain_text_small">Tap the plus sign to add a key.</string>
+    <string name="purchase_blueprints">Purchase Blueprints</string>
+    <string name="find_a_locksmith">Find a Locksmith</string>
+    <string name="enter_promotional_code">Enter Promotional Code</string>
+    <string name="promotional_code">Promotional Code</string>
+    <string name="submit">Submit</string>
+    <string name="request_scan_title">Scan Request</string>
+    <string name="request_scan_success_text">Your updated scans have been successfully sent to the server. Check back for updates.</string>
+    <string name="request_scan_success_title">Scan Request Success</string>
+    <string name="blueprint">Blueprint</string>
+    <string name="rename_key">Rename Key</string>
+    <string name="rename_key_text">Rename your key, blah blah blah</string>
+    <string name="help_1_text">blah</string>
+    <string name="help_2_text">blah blah</string>
+    <string name="help_3_text">blah blah blah</string>
+    <string name="help_4_text">blah</string>
+
+
+    <plurals name="request_scan_text">
+        <item quantity="one">In order to complete this request we need you to scan %1s more image.</item>
+        <item quantity="other">In order to complete this request we need you to scan %1s more images.</item>
+    </plurals>
+
+    <!-- Order -->
+    <string name="choose_design">Choose Design</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="item_added_to_cart">Item has been added to your cart!</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="update_cart">Update Cart</string>
+    <string name="styles">Styles</string>
+    <string name="accessory">Accessory</string>
+    <string name="accessories">Accessories</string>
+    <string name="review_order">Review Order</string>
+    <string name="add_another_key">Add another key</string>
+    <string name="add_a_key">Add a Key</string>
+    <string name="checkout">Checkout</string>
+    <string name="delivery_info">Delivery Info</string>
+    <string name="delivery_help_text">Address information will be stored locally only for your convenience. Address information will be deleted from the key me server after order completion.</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="zip_code_hint">Zip Code</string>
+    <string name="address_hint">Address</string>
+    <string name="city_hint">City</string>
+    <string name="state_hint">State</string>
+    <string name="payment_info">Payment Info</string>
+    <string name="scan_card">Scan Card</string>
+    <string name="order_info">Order Info</string>
+    <string name="savings">Savings</string>
+    <string name="total">Total</string>
+    <string name="promotion_code_hint">Enter Promotional Code</string>
+    <string name="order_success_text">
+	  <![CDATA[
+	    <b>Order Complete!</b><br/>
+	    You should receive an email receipt soon. Call us if you have any questions: 888-380-0394
+	  ]]>
+	</string>
+    <string name="save_my_credit_card">Save My Credit Card Info Securely</string>
+    <string name="cart_is_empty_text">Cart is empty. Blah blah blah.</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="order_confirmation_text">Verify your purchases and confirm your order. blah blah blah.</string>
+    <string name="order_confirmation">Order Confirmation</string>
+    <string name="quantity_abbr">Qty:</string>
+    <string name="no_styles">no styles</string>
+    <string name="style_list_load_failure">styles list has failed to load...</string>
+    <string name="no_accessories">no accessories</string>
+    <string name="accessory_list_load_failure">accessory list has failed to load...</string>
+    <string name="category_list_load_failure">category list has failed to load...</string>
+
+    <!--  Map -->
+    <string name="find_kiosk">Find Kiosk</string>
+    <string name="find_locksmith">Find Locksmith</string>
+    <string name="learn_more_about_kiosks">Learn More About Keyme Kiosks</string>
+    <string name="kiosk_learn_more_url">https://www.key.me/kiosk</string>
+    <string name="miles">miles</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="unable_to_get_location">Unable to get your location</string>
+    <string name="distance_unit_abbreviation">mi</string>
+
+    <!-- Misc -->
+    <string name="search_hint">Search Keys &amp; Scans</string>
+    <string name="empty_search_text">%1$s not found on your keychain.</string>
+    <string name="lockout">Lockout</string>
+    <string name="lockout_text">Do you have your key scanned into KeyMe already?</string>
+    <string name="lockout_text_yes">Tap the key on your keychain to view available options</string>
+    <string name="lockout_text_no">Does somebody else have your key?</string>
+    <string name="lockout_text_no_yes">Have them scan your key and share it with you.</string>
+    <string name="lockout_text_no_no">Sorry, but your key must be scanned in order to blah blah blah\.\.\. would you like to view nearby locksmiths?</string>
+    <string name="select_key">Select Key</string>
+    <string name="view_contacts">View Contacts</string>
+    <string name="view_locksmiths">View Locksmiths</string>
+    <string name="unable_to_connect">Unable to connect to the KeyMe servers. Please try again later. (blah blah blah)</string>
+    <!-- Tutorial -->
+    <string name="tutorial_page_one_text_title">KeyMe lets you scan and order keys from your phone.</string>
+    <string name="tutorial_page_one_text">Here are some tips for scanning your keys...</string>
+    <string name="tutorial_page_two_text_title">Take Off Keychain</string>
+    <string name="tutorial_page_two_text">Photograph key on horizontal surface. It must be off keychain.</string>
+    <string name="tutorial_page_three_text_title">Use a solid background.</string>
+    <string name="tutorial_page_three_text">Use a solid background, \n like a white piece of paper. Shiny surfaces won\'t work.</string>
+    <string name="get_started">Get Started</string>
+
+
+    <string name="question_not_supported_text">This key type is not supported yet by KeyMe.</string>
+    <string name="question_not_supported_title">Not Supported</string>
+    <string name="question_answered_text">Thank you for answering our questions we will update your scan shortly.</string>
+    <string name="question_answered_title">Answered!</string>
+    <string name="lets_scan_your_first_key">Let\'s scan your first key...</string>
+    <string name="try_another">Try another</string>
+
+    <!-- Shares -->
+    <string name="share_by_sms">Share Via SMS</string>
+    <string name="share_by_email">Share Via Email</string>
+    <string name="share_success_text">Your key has been shared!</string>
+    <string name="key_retrieved">Key Retrieved</string>
+    <string name="key_retrieved_text">Log In or Sign Up to add this to your keychain.</string>
+    <string name="key_retrieved_verify_text">Enter either the Email or Phone Number used to share this key with you.</string>
+    <string name="verify_sharer_info_hint">user@email.com or 555 999 0000</string>
+    <string name="share_key_text">Share Key text.. blah blah blah</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="email_hint">Email Address</string>
+    <string name="key_share_from_label">From: %1s</string>
+
+
+    <!-- dev -->
+    <string name="sample_250_characters">We want to make sure your key information is 100% correct. To ensure this, your images will be analyzed by our specialists and an email will be sent when your key is ready. Here is some more text to get it up to around 250 characters. almost! Done!!</string>
+
+    <!-- Dialer activity -->
+    <string-array name="dialer_numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>*</item>
+        <item>0</item>
+        <item>#</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_key_me">KeyMeActivity</string>
+
+
+</resources>
