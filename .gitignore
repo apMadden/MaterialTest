@@ -5,3 +5,9 @@
 .DS_Store
 /build
 /captures
+
+*~
+*.iml
+
+# Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+.idea
