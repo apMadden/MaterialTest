@@ -1,5 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    // Colors from Yisheng
+    <color name ="about_grey">#8d8d8d</color>
+
+    <color name ="address_grey1">#333132</color>
+    <color name ="address_grey2">#a1a1a1</color>
+    <color name ="address_green">#359f42</color>
+    <color name ="address_blue1">#21a0e3</color>
+    <color name ="address_blue2">#3a98cb</color>
+    <color name ="address_blue3">#17648e</color>
+    <color name ="address_blue4">#2680b2</color>
+    <color name ="address_blue5">#095ca9</color>
+
+    <color name ="auto_grey1">#ececec</color>
+    <color name ="auto_grey2">#303030</color>
+    <color name ="auto_black">#222</color>
+    <color name ="auto_blue">#0091c5</color>
+    <color name ="auto_red">#c45657</color>
+
+    <color name ="cart_grey1">#2a2a2a</color>
+    <color name ="cart_grey2">#484848</color>
+    <color name ="cart_black">#333</color>
+    <color name ="cart_blue1">#22a0e4</color>
+    <color name ="cart_blue2">#21a0e5</color>
+    <color name ="cart_blue3">#1fafd1</color>
+
+    <color name ="cc_green">#349e42</color>
+    <color name ="cc_blue">#22a0e3</color>
+
+    <color name ="cutting_grey1">#c5c5c5</color>
+    <color name ="cutting_grey2">#333333</color>
+    <color name ="cutting_grey3">#212121</color>
+    <color name ="cutting_green1">#408b48</color>
+    <color name ="cutting_green2">#3f9670</color>
+
+    <color name ="fingerprint_grey">#2b2b2b</color>
+    <color name ="fingerprint_green">#359f42</color>
+    <color name ="fingerprint_white">#efefef</color>
+    <color name ="fingerprint_blue">#4f9fdc</color>
+
+    <color name ="home_yellow">#ff8822</color>
+    <color name ="home_red">#965f43</color>
+
+    <color name ="insert_grey">#333333</color>
+    <color name ="insert_green">#359f42</color>
+
+
+    <color name ="keychain_grey">#a3a3a3</color>
+    <color name ="keychain_yellow">#977b4c</color>
+
+    <color name ="login_green">#369f42</color>
+    <color name ="login_yellow">#dbd49d</color>
+
+    <color name ="mailorder_grey">#a1a1a1</color>
+    <color name ="mailorder_grey2">#c1c1c1</color>
+    <color name ="mailorder_green">#3ba369</color>
+    <color name ="mailorder_green2">#328b5a</color>
+    <color name ="mailorder_yellow">#ebb55d</color>
+    <color name ="mailorder_black">#212121</color>
+
+    <color name ="modal_grey">#2d2d2d</color>
+    <color name ="modal_grey2">#a1a1a1</color>
+    <color name ="modal_green1">#42a44f</color>
+    <color name ="modal_green2">#359f42</color>
+    <color name ="modal_green3">#369f42</color>
+    <color name ="modal_green4">#6af97b</color>
+    <color name ="modal_green5">#3f9670</color>
+    <color name ="modal_yellow">#ffb725</color>
+    <color name ="modal_blue">#22a0e4</color>
+    <color name ="modal_blue2">#00b8e6</color>
+    <color name ="modal_red">#d75252</color>
+    <color name ="modal_red2">#cd423b</color>
+
+    <color name ="payment_grey">#444</color>
+    <color name ="payment_grey2">#a1a1a1</color>
+    <color name ="payment_green1">#369f42</color>
+    <color name ="payment_green2">#035c32</color>
+    <color name ="payment_green3">#004400</color>
+    <color name ="payment_red">#a84142</color>
+
+
+    <color name ="save_grey">#2d2d2d</color>
+    <color name ="save_green">#359f42</color>
+
+
+    <color name ="select_grey1">#c1c1c1</color>
+    <color name ="select_grey2">#c2c0b1</color>
+    <color name ="select_grey3">#cdcdcd</color>
+    <color name ="select_grey4">#848484</color>
+    <color name ="select_green1">#339540</color>
+    <color name ="select_green2">#5bcba7</color>
+    <color name ="select_green3">#369f42</color>
+    <color name ="select_green4">#40a988</color>
+    <color name ="select_yellow">#ee7e58</color>
+    <color name ="select_white">#f4b01d</color>
+    <color name ="select_blue">#2fb3da</color>
+    <color name ="select_red">#cd423b</color>
+    <color name ="select_red2">#cd4849</color>
+    <color name ="select_purple">#5666ed</color>
+
+
+    <color name ="thankyou_green1">#369f42</color>
+    <color name ="thankyou_green2">#2e8a39</color>
+    <color name ="thankyou_green3">#314340</color>
+    <color name ="thankyou_green4">#359f42</color>
+    <color name ="thankyou_green5">#32714d</color>
+    <color name ="thankyou_red">#23a0e3</color>
+
+
+
+
+    // ORIGINAL COLORS
     <color name ="colorPrimaryDark">#B57C00</color>
     <color name ="colorPrimary">#F1A500</color>
     <color name ="colorPrimaryLight">#F6C355</color>
